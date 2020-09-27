@@ -1,16 +1,16 @@
 # Site
-repository: psicmi-win/psicmi-win.github.io
-favicon: images/favicon.ico
+#repository: psicmi-win/psicmi-win.github.io
+#favicon: images/favicon.ico
 
 # Personal info
 name: Oliver Phy
 title: A Programer
 #email: psicmi@163.com
-website: psicmi-win.github.io
+#website: psicmi-win.github.io
 
 # Social links
 #twitter_username: facespics
-github_username:  psicmi-win
+#github_username:  psicmi-win
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -26,7 +26,7 @@ about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Oliver and I'm a programer. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Java</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -38,12 +38,12 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Eating
-   - Gaming
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#more_title: A Little More About Me
+#more_content: | # this will include new lines to allow paragraphs
+#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Eating
+#   - Gaming
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
