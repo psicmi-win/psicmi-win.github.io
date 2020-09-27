@@ -1,0 +1,81 @@
+title: "简历 - Psicmi - Java研发工程师/项目经理"
+name: "裴凯"
+jobtitle: "Java研发工程师(2014.07 -) | 项目经理(2018.05 -)"
+contact:
+  - icon: fa-envelope
+    text: psicmi@163.com
+  - icon: fa-phone-square
+    text: (+86) 18622527529
+  - icon: fa-globe
+    text: psicmi.cc
+    link: https://psicmi.cc
+
+experience:
+  - title: "某商业银行B2C项目（云账本）"
+    jobTitle: "开发工程师,项目经理"
+    duration: "2018/05 - 至今"
+    company: "北京科蓝软件系统股份有限公司"
+    description: 
+        - title: "研发工程师虚账户系统开发及维护"
+          text: "联机接口、定时任务、批量账务处理、业务后管平台、B2B账务系统迁移、商户对接"
+        - title: "系统性能及接口处理流程优化"
+          text: "日终对账、线下入金数据安全、手续费、客户信息操作安全"
+        - title: "项目管理"
+          text: "项目现场的项目质量管理、项目风险管理和项目进度管理；配合公司完成对项目生命周期的监控工作，包括成本控制、资源分配等"
+  - title: "某商业银行B2B电商合作平台"
+    jobTitle: "开发工程师"
+    duration: "2017/03 - 2018/06"
+    company: "北京科蓝软件系统股份有限公司"
+    description: 
+        - title: "B2B业务梳理及系统搭建"
+          text: "需求分析;参与账户系统模型调研与搭建;参与虚账户系统API设计；"
+        - title: "B2B账户系统开发及维护"
+          text: "联机接口、定时任务、批量账务处理、业务后管平台、网关页面；商户对接；存款、贷款、网联支付、银联系统、互联网支付系统对接"
+        - title: "合作开放平台开发及维护"
+          text: "联机接口API开发、趣携金融贷款接口及对账处理、商户对接"
+  - title: "某商业银行电商合作平台"
+    jobTitle: "开发工程师"
+    duration: "2016/04 - 2017/02"
+    company: "北京科蓝软件系统股份有限公司"
+    description: 
+        - title: "参与系统搭建"
+          text: "需求分析;参与业务接口设计，实现电商系统的账务直连操作"
+        - title: "系统开发及维护"
+          text: "开发网关页面；商户对接；存款、贷款、网联支付、银联系统、互联网支付系统对接；柜面系统API设计与对接"
+  - title: "某商业银行企业网银、个人网银"
+    jobTitle: "开发工程师"
+    duration: "2014/07 - 2016/06"
+    company: "北京科蓝软件系统股份有限公司"
+    description: 
+        - title: "系统开发及维护"
+          text: "JSP 页面开发;H5 页面开发;业务流程编码实现"
+
+
+      
+skills:
+  - title: "操作系统"
+    items: "Windows / Ubuntu / Linuxmint / MacOS"
+  - title: "编程语言"
+    items: "Java / JavaScript / PHP / Go / Shell / SQL"
+  - title: "数据库"
+    items: "Oracle / MySQL / DB2"
+  - title: "应用中间件"
+    items: "Tomcat / WebSphere / Jetty"
+  - title: "常用框架"
+    items: "Spring / Mybatis / Quartz / JQuery / Vue / OSGI / Dubbo"
+  - title: "其它"
+    items: "Docker / Nginx / Git"
+
+
+education:
+  - university: "中北大学"
+    duration: "2010/09 - 2014/07"
+    location: "中国"
+    major: "工学学士，软件工程"
+
+
+otherSkills:
+  - name: "PMP"
+    proficiency: "工作应用"
+  - name: "英语"
+    proficiency: "工作熟练"

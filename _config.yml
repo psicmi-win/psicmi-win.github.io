@@ -1,0 +1,8 @@
+title: PPP
+exclude:
+  - README.md
+  - "README_zh-CN.md"
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
