@@ -1,1 +1,1 @@
-psicmi-win.github.io
+psicmi.win
